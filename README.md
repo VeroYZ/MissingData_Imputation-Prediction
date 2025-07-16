@@ -18,11 +18,12 @@ Missing data is very common in the gas & oil industry, mainly due to mechanical 
 
 The algorithm used in this work can be found in the following references:
 
-1. Chen, T., Guestrin, C., 2016. XGBoost: A Scalable Tree Boosting System. In: The 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD ’16), San Francisco, CA, USA, 785-794. https://doi.org/10.1145/2939672.2939785.
-2. Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., Liu, T.-Y., 2017. Lightgbm: A highly efficient gradient boosting decision tree. In: Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS’17), Long Beach, CA, USA, 30, 3149–3157.
-3. Lall, R., Robinson, T., 2022. The MIDAS Touch: Accurate and Scalable Missing-Data Imputation with Deep Learning. Political Analysis. 30(2):179-196. https://doi.org/10.1017/pan.2020.49.
-4. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, E., 2011. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12(85), 2825–2830.
-5. Wilson, S., 2022. miceforest: Missing Value Imputation Using LightGBM. Python package version 5.6.3, URL https://pypi.org/project/miceforest/.
+1. Amat Rodrigo, J., 2020, Oct. Random Forest con Python. https://www.cienciadedatos.net/documentos/py08_random_forest_python.html.
+2. Chen, T., Guestrin, C., 2016. XGBoost: A Scalable Tree Boosting System. In: The 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD ’16), San Francisco, CA, USA, 785-794. https://doi.org/10.1145/2939672.2939785.
+3. Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., Liu, T.-Y., 2017. Lightgbm: A highly efficient gradient boosting decision tree. In: Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS’17), Long Beach, CA, USA, 30, 3149–3157.
+4. Lall, R., Robinson, T., 2022. The MIDAS Touch: Accurate and Scalable Missing-Data Imputation with Deep Learning. Political Analysis. 30(2):179-196. https://doi.org/10.1017/pan.2020.49.
+5. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, E., 2011. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12(85), 2825–2830.
+6. Wilson, S., 2022. miceforest: Missing Value Imputation Using LightGBM. Python package version 5.6.3, URL https://pypi.org/project/miceforest/.
 
 
 > [!NOTE]
