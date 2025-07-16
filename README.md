@@ -1,4 +1,4 @@
-The codes are part of an ongoing thesis of the author and were submitted for publication under the following manuscript title:
+The codes are part of an ongoing PhD thesis of the author and were submitted for publication under the following manuscript title:
 
 **Machine Learning applied to geochemical missing data of the Vaca Muerta Formation: dealing with small sample sizes and heterogeneity**
 
